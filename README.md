@@ -11,6 +11,6 @@ This is a project on title reastuarant management system using ASP.NET Core MVC.
 
 
 
-submitted by: Ishita Bhatta
-symbol no:21075412
-Everest Engineering College 
+submitted by: Ishita Bhatta <br/>
+symbol no:21075412    <br/>
+Everest Engineering College <br/>
