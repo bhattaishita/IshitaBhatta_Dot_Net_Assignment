@@ -5,7 +5,7 @@ This is a project on title reastuarant management system using ASP.NET Core MVC.
 
 
 
-
+![imgagealt](https://github.com/bhattaishita/IshitaBhatta_Dot_Net_Assignment/blob/6bd68c65ef8f50591cdd6f06f1b0efc89cccd6a2/Assest/iim.png)
 
 
 
