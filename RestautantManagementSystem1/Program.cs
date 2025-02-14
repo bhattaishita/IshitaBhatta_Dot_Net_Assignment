@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using RestautantManagementSystem1.Areas.Identity.Data;
 using RestautantManagementSystem1.Data;
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("aspnet-RestautantManagementSystem1ContextConnection") ?? throw new InvalidOperationException("Connection string 'aspnet-RestautantManagementSystem1ContextConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("OnlineVotingSystemContextConnection") ?? throw new InvalidOperationException("Connection string 'OnlineVotingSystemContextConnection' not found.");
 
 builder.Services.AddDbContext<RestautantManagementSystem1Context>(options => options.UseSqlServer(connectionString));
 
